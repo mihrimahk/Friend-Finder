@@ -2,7 +2,7 @@
 
 -----------------------
 
-##ABOUT THE FRIEND-FINDER
+## ABOUT THE FRIEND-FINDER
 
 "FriendFinder" application basically a dating app that  helps you find a frend based on a survey that determines compatibility. 
 
